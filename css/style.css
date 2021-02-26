@@ -376,16 +376,14 @@ button {
 	max-width: 100%;
 }
 
-/* Ограничивающая оболочка */
 .slick-list {
 	overflow: hidden;
 }
-/* Лента слайдов */
+
 .slick-track{
 	display: flex;
 }
 
-/* Стрелка */
 .partners__slider .slick-arrow{
 	position: absolute;
 	top: 50%;
