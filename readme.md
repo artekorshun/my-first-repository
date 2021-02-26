@@ -1,3 +1,3 @@
 # Git & GitHub Learning
 
-Some tex
+Some text
